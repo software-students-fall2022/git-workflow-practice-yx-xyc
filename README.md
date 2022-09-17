@@ -7,6 +7,6 @@ A simple project to practice a few git/github workflows.  Replace the contents o
 # Comment
 This url link to an article called "Apply 40 Machine Learning Models in two lines of code" posted on Medium Daily Digest. Though it is not directly related to software engineering, I think this article is implying some deep trend in the development of software engineering. As introduced by this article, in the past, write code to create and use machine learning models took thousands of codes. However, with numerous times of encapsulations, two line of codes can do all the things. This phenomenon questioning software engineers: which functionality should be encapsulated so that user don't have to deal with them and let computer do all the works; which functionality should let user have discretion to do their own style of DIY. 
 
-# version-control
-Course Management System[](https://github.com/jiawei-zhang-a/Course-Management-System)
+# Course Management System
+[Course Management System](https://github.com/jiawei-zhang-a/Course-Management-System)
 This is a course management system(CMS) with real time Albert courses data, you can add,delete,view RateMyProfessor easily through CMS. Your course data will store in MongoDB and can be viewed everywhere at anytime.
